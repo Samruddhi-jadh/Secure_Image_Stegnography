@@ -18,7 +18,6 @@ A Python-based **steganography tool** that allows **secure embedding and extract
 - **OpenCV** – Image processing and manipulation  
 - **Cryptography (AES)** – Secure encryption and decryption  
 - **Streamlit** – GUI for user-friendly interaction  
-- **Argparse** – CLI-based encoding & decoding  
 - **NumPy** – Efficient image data handling  
 
 
@@ -65,4 +64,6 @@ streamlit run app.py
 
 
 ## 📜 **License**  
-This project is **open-source** and available for use, modification, and distribution under an open-source license.  
+This project is **open-source** and available for use, modification.
+
+## **"🔒 Secure your secrets with invisible encryption! Try image steganography today! 🚀🖼️"**  
