@@ -9,7 +9,6 @@ A Python-based **steganography tool** that allows **secure embedding and extract
 ✅ **AES Encryption (Optional)** – Encrypt messages before embedding for added security.  
 ✅ **Streamlit GUI** – A simple web-based UI for encoding and decoding.  
 ✅ **Command-Line Interface (CLI)** – Supports **CLI-based embedding and extraction**.  
-✅ **Supports Multiple Image Formats** – Works with **PNG, JPG, and BMP** files.  
 ✅ **Lightweight & Open Source** – Easy to install, modify, and use.  
 
 
@@ -57,3 +56,13 @@ streamlit run app.py
 3. The image is stored in the **Download/** folder or a chosen location.  
 4. The downloaded image appears **unaltered** but contains hidden data.  
 
+
+## 🔐 **Security Measures**  
+1. **Password Protection** – Messages can be encrypted with a password before embedding, ensuring only authorized users can decrypt them.  
+2. **Stealth Mode** – Without the correct key, the image appears completely normal, preventing detection.  
+3. **End Marker** – A predefined **end marker** ensures no extra data is extracted beyond the hidden message.  
+4. **LSB Manipulation** – Embedding in the **Least Significant Bit (LSB)** minimizes distortion, making modifications imperceptible.
+
+
+## 📜 **License**  
+This project is **open-source** and available for use, modification, and distribution under an open-source license.  
