@@ -67,3 +67,6 @@ streamlit run app.py
 This project is **open-source** and available for use, modification.
 
 ## **"🔒 Secure your secrets with invisible encryption! Try image steganography today! 🚀🖼️"**  
+
+
+
